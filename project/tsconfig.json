@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@interfaces/*": ["interfaces/*"],
+      "@pages/*": ["pages/*"],
+      "@Fields/*": ["models/Fields/*"],
+      "@models/*": ["models/*"],
+      "@files/*": ["files/*"],
+    }
+  }
+}

@@ -1,0 +1,1 @@
+//do ustalenia czy chcemy mieć Page Objecty (trochę dużo pracy jesli będą tez buildery)
